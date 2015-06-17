@@ -1,0 +1,9 @@
+.list-item {}
+
+.label,
+.value,
+.list-item-name,
+.delete-btn {display: inline-block;}
+
+.label,
+.delete-btn {padding-left: 5px}
